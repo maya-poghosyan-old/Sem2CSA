@@ -1,5 +1,4 @@
 // code by Maya Poghosyan
- // optional step 24
 
 public class MediaLibRunnerStatic {
     public static void main(String[] args)
